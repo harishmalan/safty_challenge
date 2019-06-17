@@ -33,6 +33,16 @@ roll = atan2(y_Buff , z_Buff) * 57.3
 
  <td> <img src="img/heatmap.png" alt="Drawing" style="width: 600px;"/> </td>
 
+|FeatureData Features (Datapoint):|Description: |
+| -------------                  |---|
+|Pitch                |Correlation With Acceleration, Braking and Bumps
+|Roll                |Turns
+|Braking                |Don't Corelate with Acceleration and correlate with Pitch 
+|Phone Orientation                |Correlate with Pitch Roll, Acceleration, Braking and Turns
+ Did feature bucketing To increase the accuracy. 
+
+
+
 #### Final Model accuracy
 
 <td> <img src="img/final_model.png" alt="Drawing" style="width: 1000px;"/> </td>
