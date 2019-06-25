@@ -7,7 +7,7 @@ By collecting GPS, gyroscope and accelerometer data from our app during Grab tri
 
 Problem Appears to Sequential Problem But good Feature Engineering will turn this problem to  Structure Data Problem.  
 
-#### NOTE: This is only proof of concept, Actual Model will be implemented using Apache BEAM, will be update later in this Repo 
+Since Dataset was imbalanced , Model faving oneside, once i did oversampling ROC increased
 
 # Engineered Features:
 Features are decided upon primarily through domain knowledge and analysis of correlation.
