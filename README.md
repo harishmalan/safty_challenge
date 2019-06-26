@@ -9,6 +9,10 @@ Problem Appears to Sequential Problem But good Feature Engineering will turn thi
 
 Since Dataset was imbalanced , Model faving oneside, once i did oversampling ROC increased
 
+# Testing Script 
+For Testing Use, challenge_serving_test.ipynb 
+and update csv path for feature and label
+
 # Engineered Features:
 Features are decided upon primarily through domain knowledge and analysis of correlation.
 
